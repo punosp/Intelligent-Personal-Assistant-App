@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_answer_details">AnswerDetailsActivity</string>
+
+    <string name="tag_index">tag</string>
+    <string name="tag_question_code">tag</string>
+</resources>
